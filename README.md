@@ -1,6 +1,6 @@
 # NAS with OpenMediaVault, Docker, Jellyfin and WireGuard
 
-## Initial Presentation (English)
+## Initial Presentation
 
 This project consists of creating a private cloud using a mini PC configured as a NAS server. The system allows users to store and manage files in a centralized location while maintaining control over permissions and access.
 
